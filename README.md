@@ -16,9 +16,10 @@
 
 ## INSTRUCTIONS
  <ul>
- <li>Before running make sure you have installed selenium, use the following code for that
-       <li>python -m pip install selenium
-       <li>Download geckodriver from <a>https://github.com/mozilla/geckodriver/releases<a> 
-       <li>Go to assest and download driver according to your platform
-       <li>Extract the geckodriver from geckodriver-v0.24.0-win64.zip in
-       C:\Users\Username\AppData\Local\Programs\Python\Python37-32
+<li>Before running make sure you have installed selenium, 
+  go to CMD and download it using following code :
+  python -m pip install selenium
+<li>Download geckodriver from <a>https://github.com/mozilla/geckodriver/releases<a> 
+<li>Go to assest and download driver according to your platform
+<li>Extract the geckodriver from geckodriver-v0.24.0-win64.zip in
+C:\Users\Username\AppData\Local\Programs\Python\Python37-32
